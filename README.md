@@ -1,5 +1,5 @@
 olá, eu sou @ThaCCO!
-- 👀 I’m interested in estou interessada em compreender e, dentro do possívle, aprender proramação.
+- 👀 I’m interested in estou interessada em compreender e, dentro do possívle, aprender programação.
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
